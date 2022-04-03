@@ -1,0 +1,109 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+button {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, p {
+  margin: 0;
+}
+
+.bg-gray-900 {
+  background-color: #121826;
+}
+
+.text-white {
+  color: white;
+}
+
+.block {
+  display: block;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.inline {
+  display: inline;
+}
+
+.hidden {
+  display: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.pa-header {
+  padding: 8px 16px 
+}
+
+.p-button {
+  padding: 12px 28px;
+}
+
+.signup-btn {
+  background-color: #539D98;
+  border: none;
+  border-radius: 999px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.getstarted-btn {
+  background-color: white;
+  color: #539D98;
+  margin-top: 28px;
+  border: none;
+  border-radius: 5px;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.relative {
+  position: relative;
+}
+
+.z-10 {
+  z-index: 10;
+}
+
+.object-cover {
+  object-fit: cover;
+}
+
+.p-intro {
+  max-width: 450px;
+  font-size: 20px;
+  margin-top: 30px;
+}
